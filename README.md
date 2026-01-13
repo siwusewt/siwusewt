@@ -1,2 +1,2 @@
 ⭐ Uczeń technikum – technik programista  
-💻 HTML | CSS | JS | React | SQL | C#
+💻 HTML | CSS | PHP | JS | React | SQL | C#
