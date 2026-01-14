@@ -2,41 +2,51 @@
 
 ## 👨‍💻 About Me
 ```yaml
-name: Szymon Siwiński
-located_in: Poland
-education:
-  - "Technikum – Technik Programista"
+{
+  "name": "Szymon Siwiński",
+  "located_in": "Poland",
 
-currently:
-  - "3rd grade student"
+  "education": [
+    "Technikum – Technik Programista"
+  ],
 
-fields_of_interests:
-  - Web Development
-  - Frontend Development
-  - Backend Basics
-  - Databases
-  - Software Development
+  "currently": {
+    "grade": "3rd grade student"
+  },
 
-technical_skills:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - PHP
-  - MySQL
-  - C#
+  "fields_of_interests": [
+    "Web Development",
+    "Frontend Development",
+    "Backend Basics",
+    "Databases",
+    "Software Development"
+  ],
 
-currently_learning:
-  - React
+  "technical_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "PHP",
+    "MySQL",
+    "C#"
+  ],
 
-projects:
-  - "To-Do App"
-  - "Notepad"
+  "currently_learning": [
+    "React"
+  ],
 
-goals_2026:
-  - "Complete internship (INF.03)"
-  - "Build strong GitHub portfolio"
-  - "Improve full-stack skills"
+  "projects": [
+    "To-Do App",
+    "Notepad"
+  ],
+
+  "goals_2026": [
+    "Complete internship (INF.03)",
+    "Build strong GitHub portfolio",
+    "Improve full-stack skills"
+  ]
+}
 ```
 ## Skills
 <p>
